@@ -1,4 +1,4 @@
-# Portfolio: สมาชิกคนที่ 1
+# Portfolio: สมาชิกคนที่ 1 นางสาว ชนิดาภา ปินไชย
 
 แฟ้มสะสมผลงานของสมาชิกคนที่ 1 (สาย Data Science, Data Visualization และ Python Programming)
 ประกอบไปด้วย 2 โปรเจกต์หลัก ได้แก่:

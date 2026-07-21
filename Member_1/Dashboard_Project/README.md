@@ -1,4 +1,4 @@
-# 📊 Interactive Data Dashboard
+#Interactive Data Dashboard
 
 โปรเจกต์พัฒนา Dashboard เพื่อแสดงผลและจัดการข้อมูล (Resource Data) 
 แสดงให้เห็นถึงความสามารถในการทำ Data Visualization และการ Deploy Web Application ให้พร้อมใช้งานได้จริง

@@ -1,15 +1,15 @@
-## Member 2: Web Application Deployment
-
-* **Streamlit App Link:** [TB Clustering Web Application](https://tbclustering-m2seylu2ucciwnzuczpckq.streamlit.app)
-* **คำอธิบาย (Description):**
-  เว็บแอปพลิเคชันสำหรับการวิเคราะห์และจัดกลุ่มข้อมูลผู้ป่วยวัณโรค (TB Patient Clustering) พัฒนาขึ้นด้วย Streamlit เพื่อช่วยให้การสำรวจข้อมูล การทำ Data Visualization และการจำแนกกลุ่มโรคทำได้อย่างสะดวกรวดเร็ว(ลวิตรา พันธ์ุพาณิชย์)
+## Member 2: ลวิตรา พันธ์ุพาณิชย์
 
  การเปรียบเทียบประสิทธิภาพตัวแบบการเรียนรู้ของเครื่องในการพยากรณ์ผลลัพธ์การรักษาผู้ป่วยวัณโรคปอด
+
+* **Streamlit App Link:** [TB Clustering Web Application](https://tbclustering-m2seylu2ucciwnzuczpckq.streamlit.app)
+
  (Overview)
 งานวิจัยนี้มุ่งพัฒนาตัวแบบการเรียนรู้ของเครื่อง (Machine Learning) เพื่อพยากรณ์ผลลัพธ์การรักษาของผู้ป่วยวัณโรคปอดในเขตสุขภาพที่ 1 และจังหวัดเชียงใหม่ โดยใช้ชุดข้อมูลจริงกว่า 25,239 รายการ เพื่อจำแนกผู้ป่วยออกเป็น 2 กลุ่มหลัก:
 Class 0: ผลการรักษาพึงประสงค์ (รักษาครบ / รักษาหาย)
 Class 1: ผลการรักษาไม่พึงประสงค์ (เสียชีวิต / ขาดยา / ดื้อยา / เปลี่ยนผลการวินิจฉัย / ล้มเหลว)
 เป้าหมายหลักคือการ "ดักจับและจำแนกกลุ่มเสี่ยงล่วงหน้า" เพื่อให้หน่วยงานสาธารณสุขสามารถดำเนินงานเชิงรุก จัดสรรทรัพยากรได้อย่างแม่นยำ และช่วยลดอัตราการเสียชีวิตหรือการระบาดตามเป้าหมายของ WHO (End TB Strategy)
 
+* **Streamlit App Link:** [TB Clustering Web Application](https://tbclustering-m2seylu2ucciwnzuczpckq.streamlit.app)
  https://canva.link/vpday173bvi5wiu
 

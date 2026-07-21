@@ -4,4 +4,4 @@
 ประกอบไปด้วย 2 โปรเจกต์หลัก ได้แก่:
 
 1. [Interactive Data Dashboard](./DC_Resource_Nexus/) - การวิเคราะห์ข้อมูลเชิงพื้นที่พัฒนาด้วย Python และ Streamlit
-2. [Geospatial Mapping Project](./Mapping_Project/) - 
+2. [Geospatial Mapping Project](./Mapping_Project/) - พัฒนาระบบ AI สำหรับการจับคู่คำสั่งตรวจทางห้องปฏิบัติการที่เป็นข้อความอิสระให้เข้ากับรหัสมาตรฐานสากล

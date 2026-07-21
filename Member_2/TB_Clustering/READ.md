@@ -5,7 +5,12 @@
 
 
 (Models Evaluated):
+
+
+
 Random Forest: Ensemble Learning อาศัยการสร้าง Decision Trees หลายต้นและโหวตเสียงส่วนใหญ่ (ปรับแต่งด้วย Random Search)
+
+
 
 XGBoost (Extreme Gradient Boosting): Gradient Boosting แบบสร้างทีละต้นเพื่อแก้ไขข้อผิดพลาด พร้อม Regularization ป้องกัน Overfitting (ปรับแต่งด้วย Random Search)
 
@@ -24,7 +29,12 @@ ANN (Artificial Neural Network): โครงข่ายประสาทเ�
 เพื่อให้นำไปใช้ประโยชน์ได้จริง คณะผู้วิจัยได้พัฒนาต่อยอดโมเดล XGBoost ไปสู่แพลตฟอร์มออนไลน์ในรูปแบบเว็บไซต์สำหรับประเมินผลลัพธ์การรักษาผู้ป่วยวัณโรคปอด
 
 
+
+
 * **Streamlit App Link:** [TB Clustering Web Application](https://tbclustering-m2seylu2ucciwnzuczpckq.streamlit.app)
+
+
+
 
 
 https://canva.link/vpday173bvi5wiu

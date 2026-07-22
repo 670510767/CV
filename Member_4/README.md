@@ -29,8 +29,3 @@
 * **Machine Learning / AI:** Scikit-Learn, XGBoost, PyTorch, TensorFlow
 * **Data Visualization & GIS:** Looker Studio, Streamlit, Folium, Pandas, NumPy
 * **Deployment & Tools:** Git, GitHub, Streamlit Cloud
-
----
-**Get in touch**
-* Email: [ใส่ Email ของคุณ]
-* LinkedIn: [ใส่ลิงก์ LinkedIn ของคุณ]

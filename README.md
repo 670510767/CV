@@ -4,7 +4,7 @@
 
 ## 📌 โครงการนำเสนอ: PromptProtect (Escrow Layer for PromptPay)
 ทางทีมของเราได้แนบเอกสาร **Business Proposal และ Technical Architecture** แบบละเอียดของโปรเจกต์ PromptProtect ไว้ให้พิจารณาเพิ่มเติมครับ:
-👉 **[คลิกที่นี่เพื่ออ่านข้อเสนอโครงการ (PromptProtect Proposal)](./PromptProtect_Proposal.md)**
+👉 **[คลิกที่นี่เพื่ออ่านข้อเสนอโครงการ (PromptProtect Proposal)](./Proposal/PromptProtect_Proposal.md)**
 
 ## 💼 Portfolio ของสมาชิกในทีม
 ท่านสามารถคลิกดูผลงานและทักษะของสมาชิกแต่ละคนได้ในโฟลเดอร์ด้านล่างนี้ครับ:

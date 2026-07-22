@@ -38,5 +38,3 @@
   
 $$MAPE=\frac{1}{n}\sum\left|\frac{Y_{true}-Y_{pred}}{Y_{true}}\right|\times100$$
 
----
-*ผลงานวิจัยโดย: Data Science Research Center, Faculty of Science, Chiang Mai University*

@@ -10,4 +10,4 @@
 * **Performance Evaluation:** เขียนสคริปต์เพื่อประเมินความแม่นยำของ AI ด้วยโมเดลสถิติ (Precision, Recall, F1-Score)
 * **Language & Tools:** Python, PyTorch, Pandas, Scikit-Learn
 
-**🔗 GitHub Repository:** https://github.com/chanidapa14092547/Mapping-Project.git
+**GitHub Repository:** https://github.com/chanidapa14092547/Mapping-Project.git

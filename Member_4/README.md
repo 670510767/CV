@@ -1,4 +1,4 @@
-# Portfolio: นาย รัตนธรรม เสาภา
+# Portfolio: นายรัตนธรรม เสาภา
 
 **แฟ้มสะสมผลงาน (Data Science, Machine Learning / Deep Learning และ Dashboard Deployment)** ประกอบไปด้วย 2 โปรเจกต์หลัก ได้แก่:
 

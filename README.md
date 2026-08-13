@@ -1,13 +1,8 @@
-# ทีม SONIC - NITMX Fintech Bootcamp 2026 
 
-## โครงการนำเสนอ: PromptProtect (Escrow Layer for PromptPay)
-ทางทีมของเราได้แนบเอกสาร **Business Proposal และ Technical Architecture** แบบละเอียดของโปรเจกต์ PromptProtect ไว้ให้พิจารณาเพิ่มเติม:
-**[คลิกที่นี่เพื่ออ่านข้อเสนอโครงการ (PromptProtect Proposal)](./Proposal/PromptProtect_Proposal.md)**
 
-## Portfolio ของสมาชิกในทีม
-ท่านสามารถคลิกดูผลงานและทักษะของสมาชิกแต่ละคนได้ในโฟลเดอร์ด้านล่าง:
+## Portfolio
+ท่านสามารถคลิกดูผลงานและทักษะได้ในโฟลเดอร์ด้านล่าง:
 
-* **[Member 1: Portfolio](./Member_1/README.md)** 
+
 * **[Member 2: Portfolio](./Member_2/README.md)**
-* **[Member 3: Portfolio](./Member_3/README.md)**
-* **[Member 4: Portfolio](./Member_4/README.md)**
+

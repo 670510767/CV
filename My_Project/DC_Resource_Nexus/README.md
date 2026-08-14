@@ -6,4 +6,4 @@
 * **Live Application:** [คลิกที่นี่เพื่อดู Dashboard](https://dc-resource-bcq6nwzamzt47jtz5xwyvy.streamlit.app/)
 * **Technology Stack:** Python (Streamlit)
 
-* [click for presentation ](./DC_Resource_Nexus/)
+* [click for presentation ](./Dc-Resource-presentation.pdf/)

@@ -1,7 +1,7 @@
 
 
 ## Portfolio
-ท่านสามารถคลิกดูผลงานและทักษะได้ในโฟลเดอร์ด้านล่าง:
+You can explore my projects and skills in the folders below :
 
 
 * **[My_Project: Portfolio](./My_Project/README.md)**

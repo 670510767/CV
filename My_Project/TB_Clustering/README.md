@@ -1,24 +1,40 @@
-การเปรียบเทียบประสิทธิภาพตัวแบบการเรียนรู้ของเครื่องในการพยากรณ์ผลลัพธ์การรักษาผู้ป่วยวัณโรคปอด
+# Comparative Analysis of Artificial Neural Networks and Machine Learning Models for Predicting Pulmonary Tuberculosis Treatment Outcomes
 
-(Overview) งานวิจัยนี้มุ่งพัฒนาตัวแบบการเรียนรู้ของเครื่อง (Machine Learning) เพื่อพยากรณ์ผลลัพธ์การรักษาของผู้ป่วยวัณโรคปอดในเขตสุขภาพที่ 1 และจังหวัดเชียงใหม่ โดยใช้ชุดข้อมูลจริงกว่า 25,239 รายการ เพื่อจำแนกผู้ป่วยออกเป็น 2 กลุ่มหลัก: Class 0: ผลการรักษาพึงประสงค์ (รักษาครบ / รักษาหาย) Class 1: ผลการรักษาไม่พึงประสงค์ (เสียชีวิต / ขาดยา / ดื้อยา / เปลี่ยนผลการวินิจฉัย / ล้มเหลว) เป้าหมายหลักคือการ "ดักจับและจำแนกกลุ่มเสี่ยงล่วงหน้า" เพื่อให้หน่วยงานสาธารณสุขสามารถดำเนินงานเชิงรุก จัดสรรทรัพยากรได้อย่างแม่นยำ และช่วยลดอัตราการเสียชีวิตหรือการระบาดตามเป้าหมายของ WHO (End TB Strategy)
+## 📌 Project Overview
+This project focuses on developing machine learning models to predict the treatment outcomes of pulmonary tuberculosis (TB) patients in Thailand's Health Region 1 and Chiang Mai province. Utilizing a real-world dataset of over 25,239 records, the system classifies patients into two main categories:
 
+* **Class 0 (Favorable Outcome):** Treatment completed / Cured
+* **Class 1 (Unfavorable Outcome):** Died / Defaulted (loss to follow-up) / Drug-resistant / Diagnosis changed / Treatment failed
 
+**Primary Objective:** To proactively detect and classify high-risk patients. This allows public health agencies to take preventative action, allocate medical resources precisely, and ultimately help reduce mortality and transmission rates in alignment with the WHO's **End TB Strategy**.
 
-(Models Evaluated):
+---
 
+## 🚀 Key Highlights & Workflow
 
+* **Model Benchmarking:** Conducted comparative experiments on four core algorithms—Artificial Neural Networks (ANN), Random Forest, XGBoost, and CatBoost—to accurately classify favorable versus unfavorable treatment outcomes.
+* **Performance Evaluation:** Rigorously assessed each model's strengths using diverse statistical metrics, including Accuracy, Precision, Recall, F1-Score, and ROC-AUC. The evaluation revealed that **XGBoost** delivered the most outstanding and stable performance.
+* **System Extension & Deployment:** Translated the research into a practical solution by deploying the winning XGBoost model as an interactive web application built with **Streamlit**.
 
-Random Forest: Ensemble Learning อาศัยการสร้าง Decision Trees หลายต้นและโหวตเสียงส่วนใหญ่ (ปรับแต่งด้วย Random Search)
+---
 
+## 🧠 Models Evaluated
 
+* **Random Forest:** An ensemble learning method that constructs multiple decision trees and outputs the majority vote (Optimized via Random Search).
+* **XGBoost (Extreme Gradient Boosting):** A gradient boosting algorithm that builds trees sequentially to correct previous errors, utilizing built-in regularization to prevent overfitting (Optimized via Random Search).
+* **CatBoost (Categorical Boosting):** An algorithm utilizing symmetric trees, making it exceptionally efficient at handling categorical variables without extensive preprocessing (Optimized via Random Search).
+* **ANN (Artificial Neural Network):** A deep learning model inspired by the human brain, well-suited for capturing complex, non-linear relationships within the dataset.
 
-XGBoost (Extreme Gradient Boosting): Gradient Boosting แบบสร้างทีละต้นเพื่อแก้ไขข้อผิดพลาด พร้อม Regularization ป้องกัน Overfitting (ปรับแต่งด้วย Random Search)
+---
 
+## 🛠️ Tech Stack & Capabilities
 
-CatBoost (Categorical Boosting): อัลกอริทึมที่จัดการตัวแปรเชิงคุณภาพได้ดีเยี่ยมด้วย Symmetric Trees (ปรับแต่งด้วย Random Search)
+* **Core Focus:** Binary Classification, Model Evaluation, Performance Benchmarking
+* **ML / DL Tools:** XGBoost, CatBoost, Scikit-Learn, PyTorch / TensorFlow
+* **Data Processing & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+* **Deployment:** Streamlit (Python)
 
-
-ANN (Artificial Neural Network): โครงข่ายประสาทเทียมจำลองการทำงานของสมองมนุษย์ เหมาะสำหรับข้อมูลที่มีความสัมพันธ์ซับซ้อนและไม่เป็นเชิงเส้น
+---
 
 
 
